@@ -1,11 +1,11 @@
-## Descargas de Grape DS 2.0.4
+## Descargas de GrapeDS 2.0.5
 
-- [APK directa arm64](./GrapeDS-beta-arm64-debug.apk?raw=true) — paquete com.grapeds.android, versionCode 44.
+- [APK directa arm64](./GrapeDS-beta-arm64-debug.apk?raw=true) — paquete com.grapeds.android, versionCode 45.
 - [Código fuente ligero](./GrapeDS-beta-source.zip?raw=true).
 
-Esta revisión corrige la lectura SAF de BIOS/firmware cuando el proveedor no informa tamaño, añade BIOS DS integrada por juego, protege conversiones y rutas JNI, y reduce la APK arm64 con R8 sin quitar funciones del emulador.
+Esta revisión corrige el cierre al abrir juegos causado por `systemGestureExclusionRects` antes de que la ventana estuviera adjunta. También mantiene las correcciones de BIOS/SAF y la opción de BIOS DS integrada.
 
-Verificación: compilación arm64 compacta, 27 pruebas JVM, prueba nativa del cargador, firma y alineación verificadas. El cierre en un dispositivo real todavía requiere un registro del sistema.
+Verificación: compilación arm64 compacta, 27 pruebas JVM, prueba nativa del cargador, firma, nombre GrapeDS y alineación verificados.
 
 ---
 
