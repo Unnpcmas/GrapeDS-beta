@@ -1,3 +1,18 @@
+## Descargas de Grape DS 2.0.3
+
+- [APK directa arm64](./GrapeDS-beta-arm64-debug.apk?raw=true) — paquete com.grapeds.android, versionCode 43.
+- [Código fuente ligero](./GrapeDS-beta-source.zip?raw=true).
+
+Esta revisión unifica la selección DS/DSi entre validación y arranque, rechaza rutas BIOS/firmware/NAND faltantes y lecturas de BIOS incompletas, y maneja permisos de carpeta revocados. Conserva las correcciones anteriores del renderer. No modifica guardados, colas de frames ni sincronización.
+
+Para juegos normales de DS con archivos integrados: sistema global Nintendo DS, BIOS personalizada desactivada y sistema del juego Predeterminado. DSi requiere archivos externos válidos.
+
+Verificación: compilación arm64 y prueba de las 12 combinaciones de configuración correctas; pruebas nativas del cargador correctas; firma y alineación verificadas. El cierre del teléfono todavía requiere confirmación con un registro del dispositivo.
+
+La documentación de origen continúa abajo; sus enlaces a melonDS no son la APK de Grape DS indicada arriba.
+
+---
+
 # Grape DS Android
 
 Grape DS is a lightweight Android fork of [melonDS](https://melonds.kuribo64.net/).
