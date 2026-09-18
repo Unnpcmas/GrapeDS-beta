@@ -6,13 +6,13 @@
 
 Un fork independiente de **melonDS Android**, con identidad propia y mejoras en la experiencia de uso.
 
-[![Versión](https://img.shields.io/badge/versión-2.0.8-7c3aed)](https://github.com/Unnpcmas/GrapeDS-beta)
+[![Versión](https://img.shields.io/badge/versión-2.0.9-7c3aed)](https://github.com/Unnpcmas/GrapeDS-beta)
 [![Android](https://img.shields.io/badge/Android-7.0%2B-3DDC84?logo=android&logoColor=white)](https://github.com/Unnpcmas/GrapeDS-beta)
 [![Arquitectura](https://img.shields.io/badge/arquitectura-arm64--v8a-555)](https://github.com/Unnpcmas/GrapeDS-beta)
 [![Licencia](https://img.shields.io/badge/licencia-GPLv3-blue)](https://github.com/Unnpcmas/GrapeDS-beta/blob/main/LICENSE)
-[![Patreon](https://img.shields.io/badge/Apoyar_GrapeDS-Patreon-FF424D?logo=patreon&logoColor=white)](https://www.patreon.com/c/unnpcmas/membership)
+[![Patreon](https://img.shields.io/badge/Apoyar_GrapeDS-Patreon-FF424D?logo=patreon&logoColor=white)](https://www.patreon.com/c/AbelUki/membership)
 
-**[Descargar APK](https://github.com/Unnpcmas/GrapeDS-beta/raw/refs/heads/main/GrapeDS-2.0.8-arm64-debug.apk)** · **[Código fuente ligero](https://github.com/Unnpcmas/GrapeDS-beta/raw/refs/heads/main/GrapeDS-2.0.8-source.zip)** · **[Reportar un problema](https://github.com/Unnpcmas/GrapeDS-beta/issues)**
+**[Descargar APK](https://github.com/Unnpcmas/GrapeDS-beta/raw/refs/heads/main/GrapeDS-2.0.9-arm64-debug.apk)** · **[Código fuente ligero](https://github.com/Unnpcmas/GrapeDS-beta/raw/refs/heads/main/GrapeDS-2.0.9-source.zip)** · **[Reportar un problema](https://github.com/Unnpcmas/GrapeDS-beta/issues)**
 
 </div>
 
@@ -22,10 +22,10 @@ Un fork independiente de **melonDS Android**, con identidad propia y mejoras en 
 
 | Archivo | Descripción |
 | --- | --- |
-| [GrapeDS 2.0.8 · APK](https://github.com/Unnpcmas/GrapeDS-beta/raw/refs/heads/main/GrapeDS-2.0.8-arm64-debug.apk) | APK beta para Android de 64 bits (`arm64-v8a`). |
-| [GrapeDS 2.0.8 · Código fuente](https://github.com/Unnpcmas/GrapeDS-beta/raw/refs/heads/main/GrapeDS-2.0.8-source.zip) | Fuentes del proyecto y dependencias nativas incluidas, sin compilaciones, cachés ni archivos locales. |
+| [GrapeDS 2.0.9 · APK](https://github.com/Unnpcmas/GrapeDS-beta/raw/refs/heads/main/GrapeDS-2.0.9-arm64-debug.apk) | APK beta para Android de 64 bits (`arm64-v8a`). |
+| [GrapeDS 2.0.9 · Código fuente](https://github.com/Unnpcmas/GrapeDS-beta/raw/refs/heads/main/GrapeDS-2.0.9-source.zip) | Fuentes del proyecto y dependencias nativas incluidas, sin compilaciones, cachés ni archivos locales. |
 
-**Versión Android:** `2.0.8 GH` · **Código de versión:** `48` · **Paquete:** `com.grapeds.android`
+**Versión Android:** `2.0.9 GH` · **Código de versión:** `49` · **Paquete:** `com.grapeds.android`
 
 El APK se distribuye como compilación **debug beta**, no como una versión de producción certificada. No incluye juegos ni archivos de Nintendo.
 
@@ -35,8 +35,6 @@ El APK se distribuye como compilación **debug beta**, no como una versión de p
 2. Permite la instalación desde tu navegador o gestor de archivos cuando Android lo solicite.
 3. Abre el APK e instala GrapeDS.
 4. Selecciona la carpeta de tus juegos obtenidos legalmente.
-
-La firma de este APK coincide con la versión 2.0.7 distribuida en este repositorio: puedes instalarlo encima sin desinstalar. Instalaciones antiguas con otro certificado no admiten actualización directa. Haz una copia de tus partidas antes de cambiar de instalación.
 
 ## Características
 
@@ -51,7 +49,13 @@ La firma de este APK coincide con la versión 2.0.7 distribuida en este reposito
 
 La opción **Calidad** aparece en Ajustes como reserva para una función futura; todavía no cambia el emulador.
 
-## Novedades de 2.0.8
+## Novedades de 2.0.9
+
+- Corregida la superposición de las dos pantallas al volver a **Both screens**.
+- Android espera ahora a que el nuevo diseño quede medido antes de actualizar las áreas del renderizador.
+- Conserva las mejoras de renderizado y preferencias de 2.0.8.
+
+### Cambios incluidos desde 2.0.8
 
 - OpenGL como selección inicial en dispositivos que declaran soporte para GLES 3.2, cuando no hay un renderizador guardado.
 - Software como selección inicial en dispositivos sin ese soporte.
@@ -115,7 +119,7 @@ Una compilación propia usa tu configuración de firma; no podrá actualizar el 
 
 Si te gusta el proyecto y quieres apoyar su desarrollo, puedes hacerlo en mi Patreon:
 
-**[Apoyar GrapeDS en Patreon](https://www.patreon.com/c/unnpcmas/membership)**
+**[Apoyar GrapeDS en Patreon](https://www.patreon.com/c/AbelUki/membership)**
 
 El apoyo es voluntario. Este enlace pertenece al creador de GrapeDS; no es una campaña de donaciones de melonDS ni de su equipo original.
 
