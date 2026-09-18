@@ -16,7 +16,7 @@ An independent **melonDS Android** fork with its own identity and user-experienc
 
 **[Español](#español)** · **[English](#english)**
 
-**[Descargar APK / Download APK](https://github.com/Unnpcmas/GrapeDS-beta/raw/refs/heads/main/GrapeDS-2.0.9-arm64-debug.apk)** · **[Código fuente / Source code](https://github.com/Unnpcmas/GrapeDS-beta/raw/refs/heads/main/GrapeDS-2.0.9-source.zip)** · **[Problemas / Issues](https://github.com/Unnpcmas/GrapeDS-beta/issues)**
+**[Descargar APK / Download APK](https://github.com/Unnpcmas/GrapeDS-beta/raw/refs/heads/main/GrapeDS-2.0.9.apk)** · **[Código fuente / Source code](https://github.com/Unnpcmas/GrapeDS-beta/raw/refs/heads/main/GrapeDS-2.0.9-source.zip)** · **[Problemas / Issues](https://github.com/Unnpcmas/GrapeDS-beta/issues)**
 
 </div>
 
@@ -28,7 +28,7 @@ An independent **melonDS Android** fork with its own identity and user-experienc
 
 | Archivo | Descripción |
 | --- | --- |
-| [GrapeDS 2.0.9 · APK](https://github.com/Unnpcmas/GrapeDS-beta/raw/refs/heads/main/GrapeDS-2.0.9-arm64-debug.apk) | APK beta para Android de 64 bits (`arm64-v8a`). |
+| [GrapeDS 2.0.9 · APK](https://github.com/Unnpcmas/GrapeDS-beta/raw/refs/heads/main/GrapeDS-2.0.9.apk) | APK beta para Android de 64 bits (`arm64-v8a`). |
 | [GrapeDS 2.0.9 · Código fuente](https://github.com/Unnpcmas/GrapeDS-beta/raw/refs/heads/main/GrapeDS-2.0.9-source.zip) | Fuentes y dependencias nativas, sin compilaciones, cachés ni archivos locales. |
 
 **Versión Android:** `2.0.9 GH` · **Código de versión:** `49` · **Paquete:** `com.grapeds.android`
@@ -142,7 +142,7 @@ GrapeDS mantiene la licencia **[GNU GPLv3](https://github.com/Unnpcmas/GrapeDS-b
 
 | File | Description |
 | --- | --- |
-| [GrapeDS 2.0.9 · APK](https://github.com/Unnpcmas/GrapeDS-beta/raw/refs/heads/main/GrapeDS-2.0.9-arm64-debug.apk) | Beta APK for 64-bit Android devices (`arm64-v8a`). |
+| [GrapeDS 2.0.9 · APK](https://github.com/Unnpcmas/GrapeDS-beta/raw/refs/heads/main/GrapeDS-2.0.9.apk) | Beta APK for 64-bit Android devices (`arm64-v8a`). |
 | [GrapeDS 2.0.9 · Source code](https://github.com/Unnpcmas/GrapeDS-beta/raw/refs/heads/main/GrapeDS-2.0.9-source.zip) | Source and native dependencies without builds, caches, or local files. |
 
 **Android version:** `2.0.9 GH` · **Version code:** `49` · **Package:** `com.grapeds.android`
