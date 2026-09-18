@@ -115,7 +115,7 @@ Una compilación propia usa tu configuración de firma; no podrá actualizar el 
 
 Si te gusta el proyecto y quieres apoyar su desarrollo, puedes hacerlo en mi Patreon:
 
-**[Apoyar GrapeDS en Patreon](https://www.patreon.com/c/AbelUki/membership)**
+**[Apoyar GrapeDS en Patreon](https://www.patreon.com/c/unnpcmas/membership)**
 
 El apoyo es voluntario. Este enlace pertenece al creador de GrapeDS; no es una campaña de donaciones de melonDS ni de su equipo original.
 
