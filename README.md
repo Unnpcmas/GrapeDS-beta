@@ -79,7 +79,7 @@ El rendimiento depende del juego, procesador, GPU, controladores y ajustes. No s
 - JIT y renderizado por hilos pueden mejorar el rendimiento, según el juego y dispositivo.
 - Si OpenGL presenta errores gráficos, vuelve a Software.
 
-**Estado de verificación:** compilación y tests unitarios completados; firma del APK verificada. La velocidad
+**Estado de verificación:** compilación y tests unitarios completados; firma del APK verificada.
 
 ### Limitaciones
 
@@ -193,7 +193,7 @@ Performance depends on the game, processor, GPU, drivers, and settings. A specif
 - JIT and threaded rendering may improve performance depending on the game and device.
 - Switch back to Software if OpenGL causes graphical errors.
 
-**Verification status:** the build and unit tests completed successfully, and the APK signature was verified. Super Mario 64 DS speed and audio still require testing on physical hardware.
+**Verification status:** the build and unit tests completed successfully, and the APK signature was verified.
 
 ### Limitations
 
