@@ -10,7 +10,7 @@ Un fork independiente de **melonDS Android**, con identidad propia y mejoras en 
 [![Android](https://img.shields.io/badge/Android-7.0%2B-3DDC84?logo=android&logoColor=white)](https://github.com/Unnpcmas/GrapeDS-beta)
 [![Arquitectura](https://img.shields.io/badge/arquitectura-arm64--v8a-555)](https://github.com/Unnpcmas/GrapeDS-beta)
 [![Licencia](https://img.shields.io/badge/licencia-GPLv3-blue)](https://github.com/Unnpcmas/GrapeDS-beta/blob/main/LICENSE)
-[![Patreon](https://img.shields.io/badge/Apoyar_GrapeDS-Patreon-FF424D?logo=patreon&logoColor=white)](https://www.patreon.com/c/AbelUki/membership)
+[![Patreon](https://img.shields.io/badge/Apoyar_GrapeDS-Patreon-FF424D?logo=patreon&logoColor=white)](https://www.patreon.com/c/unnpcmas/membership)
 
 **[Descargar APK](https://github.com/Unnpcmas/GrapeDS-beta/raw/refs/heads/main/GrapeDS-2.0.8-arm64-debug.apk)** · **[Código fuente ligero](https://github.com/Unnpcmas/GrapeDS-beta/raw/refs/heads/main/GrapeDS-2.0.8-source.zip)** · **[Reportar un problema](https://github.com/Unnpcmas/GrapeDS-beta/issues)**
 
