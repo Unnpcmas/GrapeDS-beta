@@ -79,7 +79,7 @@ El rendimiento depende del juego, procesador, GPU, controladores y ajustes. No s
 - JIT y renderizado por hilos pueden mejorar el rendimiento, según el juego y dispositivo.
 - Si OpenGL presenta errores gráficos, vuelve a Software.
 
-**Estado de verificación:** compilación y tests unitarios completados; firma del APK verificada. La velocidad y el audio de Super Mario 64 DS todavía requieren comprobación en hardware real.
+**Estado de verificación:** compilación y tests unitarios completados; firma del APK verificada. La velocidad
 
 ### Limitaciones
 
@@ -117,7 +117,7 @@ El ZIP conserva el código de la aplicación, avisos de licencia y dependencias 
 
 ## Apoya GrapeDS
 
-El apoyo es voluntario y pertenece al creador de GrapeDS; no es una campaña de melonDS ni de su equipo original.
+El apoyo es voluntario y pertenece al creador de GrapeDS
 
 **[Apoyar GrapeDS en Patreon](https://www.patreon.com/c/AbelUki/membership)**
 
@@ -231,8 +231,7 @@ The ZIP retains application code, license notices, and required native dependenc
 
 ## Support GrapeDS
 
-Support is voluntary and goes to the GrapeDS creator; this is not a melonDS or original-team donation campaign.
-
+Support is voluntary and goes to the GrapeDS creator
 **[Support GrapeDS on Patreon](https://www.patreon.com/c/AbelUki/membership)**
 
 ## Credits
